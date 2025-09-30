@@ -12,6 +12,6 @@ It covers React fundamentals and concepts such as components, state & props, hoo
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/react-learning-project.git
-cd react-learning-project
+git clone https://github.com/kevintank99/react-intermediate.git
+cd react-intermediate
 npm install
